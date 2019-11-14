@@ -10,3 +10,6 @@ docker start containerid
 docker stop containerid
 
 ## linux下mysql表名区分大小写
+
+## 查看文件最后几行信息
+tail -n 20 filename
